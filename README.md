@@ -12,7 +12,7 @@ Mapa terenu zapisana jest na siatce dwuwymiarowej w bardzo prosty sposób:
 • 1 – oznacza wodę
 Dwa pola w mapie sąsiadują ze sobą tylko jeśli do siebie przylegają w pionie lub
 poziomie (czyli nie po skosie).
-Napisz funkcję, która przyjmuje taką siatkę dwuwymiarową, a zwraca rozmiar
+Funkcja przyjmuje taką siatkę dwuwymiarową, a zwraca rozmiar
 największego zbiornika wodnego (czyli pól wody sąsiadujących ze sobą).
 Dane wejściowe:
 Siatka przedstawiająca teren
