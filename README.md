@@ -1,14 +1,7 @@
-## Plik availableMovesForKnightInChees
+## Plik DoublyLinkedList
 
 ```css
-Biorąc pod uwagę pozycję skoczka(konia) na standardowej szachownicy,
-funkcję znajduje liczbę możliwych ruchów jakie może wykonać.
-Dane wejściowe:
-• position – string oznaczający kwadrat, na którym znajduje się skoczka np.”A1”.
-Wyjście:
-Liczba możliwych ruchów jakie może wykonać skoczek z przekazanej pozycji position.
-Przykład:
-• PossibleMoves(”a1”) => 2
+Własna lista dwukierunkowa z metodami.
 ```
 
 ## Plik findLargestWaterBodySize
